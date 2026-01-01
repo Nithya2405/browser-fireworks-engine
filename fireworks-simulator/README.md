@@ -22,7 +22,6 @@ A lightweight real-time fireworks physics engine built using pure JavaScript and
 3. Click anywhere to launch fireworks
 
 ## 📸 Demo
-(Add demo.gif here)
 
 ## 📌 Why This Project
 Shows real-time physics simulation, animation loop design and game-engine principles inside the browser.
