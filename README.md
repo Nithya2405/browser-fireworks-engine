@@ -156,39 +156,6 @@ for(let i=0;i<120;i++)
 ```javascript
 this.vy += 0.05;
 ```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true">
-
-</p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&repo=browser-fireworks-engine&style=for-the-badge&color=blueviolet">
-
-</p>
-
 ---
 
 # 🚀 Deployment
@@ -204,7 +171,7 @@ You can deploy instantly using:
 Example:
 
 ```
-https://yourusername.github.io/browser-fireworks-engine/
+https://Nithya2405.github.io/browser-fireworks-engine/
 ```
 
 ---
