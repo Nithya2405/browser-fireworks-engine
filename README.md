@@ -118,7 +118,7 @@ browser-fireworks-engine
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/browser-fireworks-engine.git
+git clone https://github.com/Nithya2405/browser-fireworks-engine.git
 ```
 
 Enter the folder
