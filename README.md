@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<a href="https://yourusername.github.io/browser-fireworks-engine/">
+<a href="https://Nithya2405.github.io/browser-fireworks-engine/">
 
 <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20Demo-Click%20Here-ff00ff?style=for-the-badge&logo=vercel">
 
